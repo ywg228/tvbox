@@ -25,12 +25,8 @@
             "name": "小米DEMO"
         },
         {
-           "name": "潇洒1",
+           "name": "潇洒",
            "url": "https://d.kstore.space/download/2863/01.txt"
-        },
-        {
-            "url": "https://codeberg.org/Pizazz/TVBox/raw/branch/main/api.json",
-            "name": "潇洒2"
         },
         {
             "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json",
@@ -46,7 +42,7 @@
         },
         {
             "url": "https://weixine.net/ysc.json",
-            "name": "影视车运输"
+            "name": "运输车"
         },         
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
@@ -69,24 +65,28 @@
             "name": "吾爱"
         },
         {
-            "url": "https://raw.gitmirror.com/gaotianliuyun/fongmi/main/json/config.json",
+            "url": "https://fm.t4tv.hz.cz/json/config.json",
             "name": "FongMi"
+        },
+        {
+            "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "FongMi2"
+        },
+        {
+            "url": "https://raw.gitmirror.com/gaotianliuyun/fongmi/main/json/config.json",
+            "name": "FongMi3"
         },
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "肥猫"
         },
         {
+            "url": "http://肥猫.live",
+            "name": "肥猫2"
+        },
+        {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "CH猫友"
-        },
-        {
-            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt",
-            "name": "恒星TV影视"
-        },
-        {
-            "name": "全部4K资源",
-            "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
         },
         {
             "name": "万达影视",
@@ -121,10 +121,6 @@
             "url": "http://jar.lingutv.cn/tvbox/yw/yw.json"
        },
        {
-            "name": "非凡",
-            "url": "https://codeberg.org/jgfx/dym/raw/branch/master/master825.json"
-       },
-       {
             "name": "以一敌十",
             "url": "http://111.67.195.139/bd/JS/jsjk.json"
        },
@@ -149,8 +145,8 @@
             "url": "https://raw.gitmirror.com/yw88075/tvbox/main/XYQTVBox/XYQTVBox.json"
        },
        {
-            "name": "圈圈",
-           "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json"
+            "name": "PizazzGY",
+           "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"
        },
        {
            "name": "蚂蚁接口",
@@ -161,12 +157,8 @@
            "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx.json"
        },
        {
-           "name": "蜂蜜",
-           "url": "https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
-       },
-       {
-           "name": "影视家族",
-           "url": "https://gitee.com/gagakuai/tvbox/raw/master/yyds.json"
+           "name": "PizazzGY2",
+               "url": "https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
        },
        {
            "name": "夕颜",
@@ -178,7 +170,27 @@
        },
        {
            "name": "宝盒没宝",
-           "url": "https://codeberg.org/ygbh8888/YGBH2024/raw/branch/main/box%E5%8E%9F.json"
+           "url": "https://gitee.com/guot54/YGBH777/raw/main/ygbox.json"
+       },
+       {
+           "name": "纯一骚零",
+           "url": "https://100km.top/0"
+       },      
+        {
+           "name": "OK屌炸天",
+           "url": "https://raw.gitmirror.com/okcaptain/okjar/rm/ok.json"
+       },
+       {
+           "name": "霜辉月明 py",
+           "url": "https://api-lmteam.koyeb.app/files/py.json"
+       },
+       {
+           "name": "高天流云 js",
+           "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+       },
+       {
+           "name": "高天流云 XYQ",
+           "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
        }
    ]
 }
