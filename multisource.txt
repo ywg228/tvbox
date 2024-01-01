@@ -162,7 +162,7 @@
        },
        {
            "name": "PizazzGY2",
-               "url": "https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
+           "url": "https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
        },
        {
            "name": "摸鱼TV",
@@ -201,16 +201,17 @@
            "url": "https://raw.gitmirror.com/lxhfans/TV/master/tv.txt"
        },
        {
-           "name": "欧歌"
-           "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+           "name": "欧歌",
+           "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
        }, 
        {
-           "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
-           "name": "月光宝盒"
+           "name": "月光宝盒",
+           "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json"
+
        },  
        {
-			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-			"name": "夜猫子"
+            "name": "夜猫子",
+			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"	
 	   }
    ]
 }
