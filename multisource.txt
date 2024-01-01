@@ -43,7 +43,11 @@
         {
             "url": "https://weixine.net/ysc.json",
             "name": "运输车"
-        },         
+        },  
+        {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "运输车svip"
+        },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "巧计1"
@@ -161,7 +165,7 @@
                "url": "https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
        },
        {
-           "name": "夕颜",
+           "name": "摸鱼TV",
            "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json"
        },
        {
@@ -176,7 +180,7 @@
            "name": "纯一骚零",
            "url": "https://100km.top/0"
        },      
-        {
+       {
            "name": "OK屌炸天",
            "url": "https://raw.gitmirror.com/okcaptain/okjar/rm/ok.json"
        },
@@ -195,6 +199,18 @@
        {
            "name": "乐享汇fans",
            "url": "https://raw.gitmirror.com/lxhfans/TV/master/tv.txt"
-       }
+       },
+       {
+           "name": "欧歌"
+           "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+       }, 
+       {
+           "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
+           "name": "月光宝盒"
+       },  
+       {
+			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+			"name": "夜猫子"
+	   }
    ]
 }
