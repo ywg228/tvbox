@@ -212,6 +212,10 @@
        {
             "name": "夜猫子",
 			"url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz"	
+	   },  
+       {
+            "name": "优创名品",
+			"url": "https://uctral.vip/TV/uctral.json"	
 	   }
    ]
 }
