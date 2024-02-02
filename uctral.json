@@ -1,8 +1,8 @@
 {
 
 "lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://uctral.vip/TV/live8.txt"}],
-//"lives":[{"name":"直播(道长)","type":0,"url":"https://download.kstore.space/download/2863/live.txt"}],
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2My9saXZlLnR4dA=="]}]}],
+"lives":[{"name":"直播(道长)","type":0,"url":"https://download.kstore.space/download/2863/live.txt"}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2My9saXZlLnR4dA=="]}]}],
 //EPG地址：http://epg.51zmt.top:8000/api/diyp/,
 //"epg":"http://epg.51zmt.top:8000/api/diyp/",
 //epg配置地址写入配置lives下 "epg":"epgUrl";同时兼容蜂蜜的带参epg配置
@@ -19,7 +19,7 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
       "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b"
     },
   {
