@@ -207,7 +207,6 @@
        {
            "name": "月光宝盒",
            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json"
-
        },  
        {
             "name": "夜猫子",
@@ -224,6 +223,10 @@
        {
             "name": "魅力人",
 			"url": "https://raw.gitmirror.com/ywg228/tvbox/main/meiliren.txt"	
+	   },  
+       {
+            "name": "uctral",
+			"url": "https://raw.gitmirror.com/ywg228/tvbox/main/uctral.txt"	
 	   }
 	   
    ]
