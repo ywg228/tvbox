@@ -7358,8 +7358,9 @@
 "warningText": "接口完全免费，切勿付费购买",
 
 //自定义jar
+"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
 
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705601871140/fan.txt;md5;28c7950d7b33ba3ee8e2d322882ffa87",
+//  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705601871140/fan.txt;md5;28c7950d7b33ba3ee8e2d322882ffa87",
 
 //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;14a42dfc35f4780e0d2aebf9fa397bbd",
 
