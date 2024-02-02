@@ -226,7 +226,7 @@
 	   },  
        {
             "name": "uctral",
-			"url": "https://raw.gitmirror.com/ywg228/tvbox/main/uctral.txt"	
+			"url": "https://raw.gitmirror.com/ywg228/tvbox/main/uctral.json"	
 	   }
 	   
    ]
