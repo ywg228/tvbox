@@ -1,11 +1,11 @@
 {"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
 
-"lives":[{"name":"IPTV1","type":0,"url":"https://gitcode.net/mlrz/meiliren/-/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
+"lives":[
+{"name":"IPTV1","type":0,"url":"https://gitcode.net/mlrz/meiliren/-/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"IPTV2","type":0,"url":"https://notabug.org/mlr/tv/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"IPTV3","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"IPTV4","type":0,"url":"http://atomgit.com/meiliren/tv/raw/master/zhibo.txt",
  "playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"},
-
 {"name":"IPTV5","type":0,"url":"https://pastebin.com/raw/CjjHS3d2","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"}
 ],
               
@@ -38,8 +38,8 @@
  {"key":"巧技三","name":"巧技三","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
  {"key":"巧技四","name":"巧技四","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
  {"key":"巧技五","name":"巧技五","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"},
- {"key":"蜂鸟","name":"魅力 蜂鸟影视","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"},
- {"key":"Lib","name":"魅力 Lib直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
+ {"key":"蜂鸟","name":"蜂鸟影视","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"},
+ {"key":"Lib","name":"Lib直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
  { "key": "996", 
 "name": "996影视",
  "type": 3, 
@@ -312,7 +312,7 @@
 
 			     
 
-{"key":"*老鸭资源","name":"*注意少儿不宜🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*老鸭资源","name":"*🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 
    
