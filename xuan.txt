@@ -2,11 +2,6 @@
 
 "lives":[
 {"name":"IPTV1","type":0,"url":"https://gitcode.net/mlrz/meiliren/-/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"IPTV2","type":0,"url":"https://notabug.org/mlr/tv/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"IPTV3","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"IPTV4","type":0,"url":"http://atomgit.com/meiliren/tv/raw/master/zhibo.txt",
- "playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"IPTV5","type":0,"url":"https://pastebin.com/raw/CjjHS3d2","playerType":1,"ua": "okhttp/3.15","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"}
 ],
               
     
@@ -312,7 +307,7 @@
 
 			     
 
-{"key":"*老鸭资源","name":"*🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*老鸭资源","name":"🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 
    
