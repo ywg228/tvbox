@@ -1,9 +1,7 @@
 {"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
 
-"lives":[
-{"name":"IPTV1","type":0,"url":"https://gitcode.net/mlrz/meiliren/-/raw/master/zhibo.txt","epg":"http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
-],
-              
+"lives":[{
+  "group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],      
     
 "wallpaper":"https://gitlab.com/meoliren/tv/-/raw/main/1647417832005ckt_img.png",
 "sites":
