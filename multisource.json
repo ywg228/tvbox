@@ -167,7 +167,34 @@
        {
             "name": "uctral",
 			"url": "https://ghproxy.net/raw.githubusercontent.com/ywg228/tvbox/main/uctral.json"	
-	   }
-	   
+	   },
+	   {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "摸鱼4K"
+       },
+       {
+            "name": "玉玉软件",
+            "url": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json"
+       },
+       {
+            "url": "http://qixing.myhkw.com/QX/api.json",
+            "name": "七星Cat"
+       },
+       {
+            "url": "https://ghproxy.net/raw.githubusercontent.com/anaer/Meow/main/meowf.json",
+            "name": "MEOW"
+       },
+       {
+            "url": "https://jihulab.com/jigedos/bh/-/raw/main/littleapplejson",
+            "name": "小苹果"
+       },
+	   {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "影探4K"
+       },
+       {
+            "url": "http://jxym.ygx888.com/vip/api.json",
+            "name": "⚜星视界"
+       }
    ]
 }
