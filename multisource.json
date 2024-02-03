@@ -13,7 +13,7 @@
             "name": "MeowTV"
         },
         {
-            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情"
         },
         {
@@ -73,11 +73,11 @@
             "name": "FongMi"
         },
         {
-            "url": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi2"
         },
         {
-            "url": "https://raw.gitmirror.com/gaotianliuyun/fongmi/main/json/config.json",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json",
             "name": "FongMi3"
         },
         {
@@ -114,7 +114,7 @@
        },
        {
             "name": "熊猫不是猫",
-            "url": "https://raw.gitmirror.com/xmbjm/xmbjmjk/main/xmbjm.json"
+            "url": "https://ghproxy.net/raw.githubusercontent.com/xmbjm/xmbjmjk/main/xmbjm.json"
        },
        {
             "name": "壹梦在线",
@@ -142,19 +142,19 @@
        },
        {
             "name": "泥巴",
-            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0827.json"
+            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
        },
        {
             "name": "香雅情",
-            "url": "https://raw.gitmirror.com/yw88075/tvbox/main/XYQTVBox/XYQTVBox.json"
+            "url": "https://ghproxy.net/raw.githubusercontent.com/yw88075/tvbox/main/XYQTVBox/XYQTVBox.json"
        },
        {
             "name": "PizazzGY",
-           "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
        },
        {
            "name": "蚂蚁接口",
-           "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/js.json"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
        },
        {
            "name": "荷城茶秀",
@@ -162,7 +162,7 @@
        },
        {
            "name": "PizazzGY2",
-           "url": "https://raw.gitmirror.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json"
        },
        {
            "name": "摸鱼TV",
@@ -182,7 +182,7 @@
        },      
        {
            "name": "OK屌炸天",
-           "url": "https://raw.gitmirror.com/okcaptain/okjar/rm/ok.json"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json"
        },
        {
            "name": "霜辉月明 py",
@@ -190,15 +190,15 @@
        },
        {
            "name": "高天流云 js",
-           "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
        },
        {
            "name": "高天流云 XYQ",
-           "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
        },
        {
            "name": "乐享汇fans",
-           "url": "https://raw.gitmirror.com/lxhfans/TV/master/tv.txt"
+           "url": "https://ghproxy.net/raw.githubusercontent.com/lxhfans/TV/master/tv.txt"
        },
        {
            "name": "欧歌",
@@ -218,15 +218,15 @@
 	   },  
        {
             "name": "fenxp",
-			"url": "https://raw.gitmirror.com/fenxp/iptv/main/jxd.json"	
+			"url": "https://ghproxy.net/raw.githubusercontent.com/fenxp/iptv/main/jxd.json"	
 	   },  
        {
             "name": "魅力人",
-			"url": "https://raw.gitmirror.com/ywg228/tvbox/main/meiliren.txt"	
+			"url": "https://ghproxy.net/raw.githubusercontent.com/ywg228/tvbox/main/meiliren.txt"	
 	   },  
        {
             "name": "uctral",
-			"url": "https://raw.gitmirror.com/ywg228/tvbox/main/uctral.json"	
+			"url": "https://ghproxy.net/raw.githubusercontent.com/ywg228/tvbox/main/uctral.json"	
 	   }
 	   
    ]
