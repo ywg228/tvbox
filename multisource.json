@@ -56,6 +56,10 @@
             "url": "http://肥猫.live",
             "name": "肥猫2"
         },
+        {
+            "url": "http://itvbox.cc/云星日记",
+            "name": "云星日记"
+        },
        {
             "name": "泥巴",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"
@@ -99,6 +103,10 @@
 	   {
             "url": "http://www.lyyytv.cn/yt/yt.json",
             "name": "影探4K"
+       },
+	   {
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "放牛"
        }
 
    ]
