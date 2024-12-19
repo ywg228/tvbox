@@ -6,11 +6,7 @@
         },
         {
             "name": "放牛娃",
-            "url": "http://tvbox.王二小放牛娃.top"
-        },
-        {
-            "name": "放牛娃(備用)",
-            "url": "https://9280.kstore.space/wex.json"
+            "url": "https://raw.gitmirror.com/ywg228/tvbox/main/cowboy.json"
         },
         {
             "name": "肥貓①",
@@ -107,6 +103,10 @@
        {
             "name": "有毒",
             "url": "https://tv.youdu.fan:666"
+       },
+       {
+            "name": "PG",
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"
        }
    ]
 }
