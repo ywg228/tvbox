@@ -14,19 +14,9 @@
 	  "filterable": 0,
       "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"
 	},
-    {
-	  "key":"Doubana",
-	  "name":"网盘扫码",
-	  "type": 3, 
-	  "api": "csp_Douban",
-	  "searchable": 0,
-	  "quickSearch": 0,
-	  "filterable": 0,
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729769265800/douban.json"
-	},
 	{
       "key": "Wexconfig",
-      "name": "🐮通用类型┃配置中心🐮",
+      "name": "🐮通用┃配置🐮",
       "type": 3,
       "api": "csp_Wexconfig",
       "searchable": 0,
@@ -35,7 +25,7 @@
     },
 	{
       "key": "Wexokconfig",
-      "name": "🐮影视专用┃配置中心🐮",
+      "name": "🐮影视┃配置🐮",
       "type": 3,
       "api": "csp_Wexokconfig",
       "searchable": 0,
@@ -502,7 +492,6 @@
         "type": "list"
         }
     },
-	
     {
       "key": "Wexduanjuvop",
       "name": "🍉短剧┃秒播🍉",
