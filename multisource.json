@@ -29,6 +29,10 @@
             "url": "https://raw.gitmirror.com/ywg228/tvbox/main/maoystv.json"
         },
         {
+            "name": "小米",
+            "url": "https://raw.gitmirror.com/ywg228/tvbox/main/DEMO.json"
+        },
+        {
             "name": "肥貓①",
             "url": "http://ceshi.肥猫.com/PandaQ"
         },
