@@ -2,7 +2,7 @@
 	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",
 	"sites": [{
 			"key": "豆瓣",
-			"name": "🍥┃豆瓣┃网盘线路、不限速、不限制客户端🍥",
+			"name": "🍥┃豆瓣┃推荐",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0
