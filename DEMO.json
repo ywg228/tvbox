@@ -215,7 +215,6 @@
 			"filterable": 1,
 			"ext": ""
 		},
-		
 		{
 			"key": "csp_视觉",
 			"name": "🔭视觉┃PYTHON",
@@ -249,14 +248,6 @@
 			"type": 3,
 			"playerType": "1",
 			"ext": "http://api2.rinhome.com"
-		},
-		{
-			"key": "push_agent",
-			"name": "接口完全免费公益性质 纯互联网搜集 杜绝未成年测试本项目｜请于24小时内删除本测试内容",
-			"type": 3,
-			"api": "csp_Push",
-			"playerType": "1",
-			"searchable": 0
 		}
 	],
 	"parses": [{
