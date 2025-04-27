@@ -95,6 +95,17 @@
       "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/XBPQ/狐狸君.json"
     },
     {
+      "key": "接影视影视",
+      "name": "💓宝盒｜没宝",
+      "type": 3,
+      "api": "https://try.gogs.io/guot54/bh/raw/main/py/jieyingshi.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "木头",
       "name": "🍣木头｜APP",
       "type": 3,
