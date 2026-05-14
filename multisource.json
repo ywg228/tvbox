@@ -2,15 +2,11 @@
     "urls": [
         {
             "name": "飯太硬",
-            "url": "http://www.饭太硬.com/tv"
-        },
-        {
-            "name": "飯太硬(備用)",
             "url": "http://www.饭太硬.net/tv"
         },
         {
-            "name": "肥貓",
-            "url": "http://肥猫.com"
+            "name": "飯太硬(備用)",
+            "url": "http://fty.xxooo.cf/tv"
         },
         {
             "name": "王小二",
@@ -25,28 +21,12 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json"
         },
         {
-            "name": "小米",
-            "url": "http://miqk.cc/小米/DEMO.json"
-        },
-        {
-            "name": "小米(備用)",
-            "url": "http://mitvbox.xyz/小米/DEMO.json"
-        },
-        {
             "name": "南風",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
         {
             "name": "貓影視",
             "url": "https://tvbox.catvod.com/catvod.json"
-        },
-        {
-            "name": "FongMi",
-            "url": "https://tvbox.catvod.com/FongMi.json"
-        },
-        {
-            "name": "喵影視",
-            "url": "http://www.meowtv.vip/tvbox.json"
         },
         {
             "name": "盒子迷",
